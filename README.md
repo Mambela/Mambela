@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Kevin Mambela
 - 👀 I’m interested in programming in general, i love creating and seeing systems come to life I am passionate about developing solutions that help the world. IOT is my secret love. The idea is to create solutions that make life easier and solve third world problems. 
 - 🌱 I’m currently learning mobile development, cloud computing and System Architecture.
-- 💞️ I’m looking to collaborate on projects that help me grow Fullstack and Mobile development. 
+- 💞️ I’m looking to collaborate on projects that help me grow as a developer. 
 - 📫 How to reach me via mbelafran@gmail.com ...
 
 <!---
